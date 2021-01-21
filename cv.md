@@ -23,7 +23,7 @@
   * Client-server architecture & maintenance
   * Analyse of needs & project management
 
-### SCOLARSHIP
+### SCOLARSHIP 
 
 ####  UNIVERSITY OF SILESIA (Poland) 1st year
      * 2018-2021
