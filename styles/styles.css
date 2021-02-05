@@ -1,0 +1,302 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+.center {
+  /* Positioning */
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  width: 1200px;
+}
+
+.content {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+h1 {
+  font-weight: 900;
+  color: rgb(51, 83, 132);
+}
+
+h4 {
+  font-weight: 700;
+  color: rgb(91, 167, 209);
+}
+
+h6 {
+  font-weight: 700;
+}
+
+img {
+  border-radius: 50%;
+  width: 50%;
+}
+
+hr {
+  background-color: rgb(0, 0, 0);
+  width: 70px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+a:hover {
+  color: rgb(91, 167, 209);
+}
+
+p {
+  font-weight: 100;
+  font-family: "Assistant", sans-serif !important;
+}
+
+.title {
+  padding-top: 2em;
+}
+.sidebar {
+  padding-top: 2em;
+  background-color: rgb(51, 83, 132);
+  text-align: center;
+}
+.text-sidebar > p {
+  color: rgb(255, 255, 255);
+}
+.text-sidebar > ul {
+  color: rgb(255, 255, 255);
+  font-family: "Assistant", sans-serif !important;
+  list-style: none;
+  padding-left: 5px;
+}
+.title-sidebar {
+  padding-top: 5em;
+  color: rgb(255, 255, 255);
+}
+.title-content {
+  padding-top: 104px;
+  color: rgb(91, 167, 209);
+}
+.bar {
+  background: rgb(51, 83, 132);
+  display: block;
+  height: 5px;
+  border: 1px solid rgb(51, 83, 132);
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0 0 10px #2187e7b3;
+  margin: 0px 25px 0px 25px;
+}
+.bar span {
+  height: 3px;
+  float: left;
+  background: #2187e7;
+}
+.html {
+  width: 90%;
+  animation: html 2s;
+}
+.css {
+  width: 80%;
+  animation: css 2s;
+}
+.node {
+  width: 50%;
+  animation: node 2s;
+}
+.javascript {
+  width: 60%;
+  animation: javascript 2s;
+}
+.php {
+  width: 60%;
+  animation: php 2s;
+}
+.angular {
+  width: 70%;
+  animation: angular 2s;
+}
+.rest {
+  width: 50%;
+  animation: rest 2s;
+}
+.sass {
+  width: 80%;
+  animation: sass 2s;
+}
+.react {
+  width: 50%;
+  animation: react 2s;
+}
+.laravel {
+  width: 50%;
+  animation: laravel 2s;
+}
+.c {
+  width: 30%;
+  animation: c 2s;
+}
+.java {
+  width: 30%;
+  animation: java 2s;
+}
+.git {
+  width: 90%;
+  animation: git 2s;
+}
+.mysql {
+  width: 90%;
+  animation: mysql 2s;
+}
+.phpmyadmin {
+  width: 90%;
+  animation: phpmyadmin 2s;
+}
+.sqldatamod {
+  width: 80%;
+  animation: sqldatamod 2s;
+}
+.mongodb {
+  width: 60%;
+  animation: mongodb 2s;
+}
+@keyframes html {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 90%;
+  }
+}
+@keyframes css {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@keyframes javascript {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 60%;
+  }
+}
+@keyframes php {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 60%;
+  }
+}
+@keyframes sass {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@keyframes angular {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 70%;
+  }
+}
+@keyframes react {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 50%;
+  }
+}
+@keyframes laravel {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 50%;
+  }
+}
+@keyframes node {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 50%;
+  }
+}
+@keyframes rest {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 50%;
+  }
+}
+@keyframes mysql {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 90%;
+  }
+}
+@keyframes phpmyadmin {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 90%;
+  }
+}
+@keyframes sqldatamod {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@keyframes mongodb {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 60%;
+  }
+}
+@keyframes c {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 30%;
+  }
+}
+@keyframes java {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 30%;
+  }
+}
+@keyframes git {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 90%;
+  }
+}
+
+#qualities {
+  padding-bottom: 100px;
+}
